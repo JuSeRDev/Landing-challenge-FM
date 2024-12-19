@@ -1,3 +1,4 @@
+
 interface activity {
     title: string
     class: string
@@ -15,7 +16,7 @@ interface activity {
             previous: number
         }
     }
-}
+
 
 const contInfoGrid = document.querySelector(".container-info-grid") as HTMLDivElement
 
