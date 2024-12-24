@@ -1,0 +1,18 @@
+@import url('../../global.css');
+
+:root {
+    --darkgray: #555;
+}
+
+body {
+    background-image: url('../../assets/technology/background-technology-desktop.jpg');
+    background-repeat: no-repeat;
+}
+
+.list {
+    background-color: #131522;
+}
+
+h1 > span {
+    color: var(--darkgray);
+}
